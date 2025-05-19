@@ -31,6 +31,7 @@ TODO:
 
 ## Project Structure
 
+```
 api/
 ├── cmd/            # Application entry points
 ├── config/         # Configuration settings
@@ -39,3 +40,4 @@ api/
 │   ├── routes/     # Routes and route handling
 │   └── utils/      # Helper functions and utilities
 └── migrations/     # Database migration files
+```
