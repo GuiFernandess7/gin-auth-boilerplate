@@ -39,5 +39,4 @@ api/
 │   ├── auth/       # Authentication logic (login, signup, token handling)
 │   ├── routes/     # Routes and route handling
 │   └── utils/      # Helper functions and utilities
-└── migrations/     # Database migration files
 ```
