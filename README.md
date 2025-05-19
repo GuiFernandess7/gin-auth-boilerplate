@@ -7,11 +7,14 @@ A production-ready boilerplate for building RESTful APIs in Go using Gin, Postgr
 - 🏗️ Clean Architecture
 - 📦 Modular structure
 - 🗄️ PostgreSQL database integration
-- ✅ Input validation
-- 🔒 Password hashing and salting
+- 🔒 Password hashing
+
+TODO: 
+
 - 🧪 Testing setup
-- 📝 API documentation
+- ✅ Input validation
 - 🚀 Production-ready
+- 📝 API documentation
 
 ## Requirements
 
